@@ -33,7 +33,7 @@ def make_plot_power(df2, hr_max):
         go.Scatter(x=df2["Time in s"], y=df2["HeartRate"], name="HeartRate", line=dict(color="royalblue")),
         secondary_y=True,
     )
-    fig.update_xaxes(title_text="Time in s")
+    fig.update_xaxes (title_text="Time in s")
 
     fig.update_yaxes(title_text="Power (watts)", title_font=dict(color="lightgray"), tickfont=dict(color="lightgray"),
                      secondary_y=False)
