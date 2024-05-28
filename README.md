@@ -23,19 +23,19 @@ Ensure you have the following installed on your system:
    git clone https://github.com/yourusername/ekg-power-analysis.git
    cd ekg-power-analysis
    
-2. **Install Required Packages
+2. **Install Required Packages**
    Install the necessary Python packages using pip:
    ```sh
    pip install -r requirements.txt
    
 ## How to use
 
-1. ** Run the streamlit app
+1. **Run the streamlit app**
 
    ```sh
    streamlit run main.py
 
-2. **Navigate Through the Tabs
+2. **Navigate Through the Tabs**
 
    The application has three tabs:
 
