@@ -1,4 +1,5 @@
 # Power curve II
+#### Autors: Georg Sagmeister, Kometer Alexander
 
 ## Description
 
